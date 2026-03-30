@@ -1,2 +1,3 @@
 This is the first file for Kaplat exercise 1.
 Adding a second line for step G
+editing the file for step O
